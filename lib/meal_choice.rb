@@ -5,5 +5,4 @@ def meal(veg1,veg2,protien)
     return "A plate of #{protein} with #{veg1} and #{veg2}."
   else
     return "A plate of with #{veg1} and #{veg2}"
-  puts "What a nutritious meal!"
 end
